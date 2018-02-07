@@ -1,8 +1,9 @@
 /*
 * License: MIT
 * Author: Pedro J. Martínez <hello@mrtz.es><github.com/pmrt>
+* Version: 1.0.0
 * Description: A3Player Ads Remover Bookmarklet. -
-* 			   Just a tiny script for removing ads from a3player.
+* Just a tiny script for removing ads from a3player.
 */
 (function(window, document) {
 	var MESSAGE_PREFIX = '[A3PlayerAdRemover]: ';
