@@ -1,5 +1,14 @@
 # A3Player Series Ad Remover
 
+# Quick Overview
+
+<p align="center">1. How to Install</p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/22831717/35990154-7d7a8dc6-0d03-11e8-9d0a-7e9fc868981a.gif"></p>
+
+
+<p align="center">2. How to Use</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/22831717/35990142-75372b9c-0d03-11e8-9bb2-45794ef70450.gif"></p>
+
 ### English Version
 1. [Description](#description)
 2. [Usage](#usage)
@@ -7,9 +16,6 @@
 ### Spanish Version
 1. [Descripción](#descripción)
 2. [Uso](#uso)
-
-### More
-1. [How to Install GIF](#how-to-install-gif)
 
 # Description
 A3Player —spanish video on demand website from the A3Media Group— uses an adblock killer so your standard adblocker can't block mid roll video ads, which are the worst and most exasperating ads ever. A3PlayerSeries Ad Remover is a tiny open-source ad-remover script for http://www.atresplayer.com/television/series/. It only works for ads which show up during the video itself (mid-roll). Also, it doesn't work with mid roll streaming video ads: you just can't get rid of in-stream advertising —that is to say live videos—. Whether you love binge watching or prefer to watch a single episode, this script is for you!
@@ -48,7 +54,4 @@ El bookmarklet  —que es un pequeño trozo de software guardado como un marcado
 
 Te **recomendamos encarecidamente** que te suscribas como premium de atresplayer para apoyar a A3Media. Este script solo se deshará de los anuncios más frustantes pero puedes obtener más beneficios como series exclusivas, la mejor calidad de vídeo, modo offline y mucho más. Ver más [aquí](http://www.atresplayer.com/info/ayuda/hazte-premium.html).
 
----
-# How to Install GIF
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/22831717/35988518-ed797236-0cfe-11e8-86a8-500201b71937.gif"></p>
